@@ -12,7 +12,7 @@ Uas Bahasa Pemrograman
 
 Oke langsung saja dibuat seperti perintah yang di atas, buat package dan modulnya terlebih dahulu. Jika sudah, kita isi modul yang __daftar_nilai.py__ beriskan : *tambah_data, ubah_data, hapus_data, dan cari_data.* Berikut Screnshoot programnya.
 
-![image](screenshot/daftar_nila.PNG)
+![image](screenshot/daftar_nilai.PNG)
 
 
 Lalu buat package view, package view berisi modul __view.nilai.py__ yang berisikan cetak_daftar_nilai, cetak_hasil_pencarian!. Berikut Screnshoot programnya.
